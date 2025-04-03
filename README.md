@@ -104,7 +104,7 @@ These insights help businesses identify high-performing areas and make strategic
 •	The insights can guide strategic decisions such as regional investments, discount policies, and category prioritization.
 
 ## Dashboard :
-<img src="Images/Retail Dashboard.png" width="2500" height="600"/>&nbsp;
+<img src="Images/Dashboard.png" width="2500" height="600"/>&nbsp;
 
 ## Story Telling
 
