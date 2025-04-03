@@ -106,6 +106,6 @@ These insights help businesses identify high-performing areas and make strategic
 ## Dashboard :
 <img src="Images/Dashboard.png" width="2500" height="600"/>&nbsp;
 
-## Story Telling
+## Story Telling :
 
 <img src="Images/Story Telling.png" width="2500" height="600"/>&nbsp;
