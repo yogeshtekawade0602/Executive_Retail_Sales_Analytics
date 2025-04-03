@@ -108,16 +108,4 @@ These insights help businesses identify high-performing areas and make strategic
 
 ## Story Telling
 
-### 1.New York City is the best performer across all key metrics.
-
-<img src="Images/Story 1.png" width="2500" height="600"/>&nbsp;
-
-
-### 2.September 2018 marked the highest sales and profit in the dataset.
-
-<img src="Images/Story 2.png" width="2500" height="600"/>&nbsp;
-
-
-3.Central & West regions performed the best in terms of sales and profitability.
-
-<img src="Images/Story 3.png" width="2500" height="600"/>&nbsp;
+<img src="Images/Story Telling.png" width="2500" height="600"/>&nbsp;
